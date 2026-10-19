@@ -1,8 +1,8 @@
 
 ## Week N (date)
-- Hours: 12 / 1.5
-- Done: what I built or learned
-- Exit criteria: checked off this week
+- Hours: 12 / 9.5
+- Done: I learned to manipulate files, its contents and folders.
+- Exit criteria: N/A
 - Energy (1-5):
 - Stuck on:
 - Next week's 3 commitments: 
