@@ -1,19 +1,17 @@
 
 ## Week N (date)
-- Hours: planned / actual
-- Done: what I built or learned
-- Exit criteria: checked off this week
-- Energy (1-5):
-- Stuck on:
-- Next week's 3 commitments:
-- Shipped (every 2-3 weeks): link to repo, demo or write-up
+- Hours: 12 / 9.25
+- Done: I completed Chapter 11 practice programs and about 60% of chapter 12.
+- Exit criteria: N/A
+- Energy (1-5): 4
+- Stuck on: N/A
+- Next week's 3 commitments: Complete 12 and 13
+- Shipped (every 2-3 weeks): https://github.com/jasclarke/automate-the-boring-stuff-with-python/tree/main/chapter11 
 
 ## Weekly Review
 1. Did you do what you committed to?
-All practice programs for chapter 11 committed to the repo.
-Read and learn chapter 12.
-All practice programs for chapter 12 committed to the repo.
-Stretch goal: All practice programs for chapter 13 committed to the repo.
+No. I completed Chapter 11 practice programs and about 60% of chapter 12.
 2. What did you ship or learn?
-3. What is blocking you?
-4. What are your next three commitments?
+I committed the other two practice programs from chapter 11 and learned how to about the PATH variable and how to edit it, virtual environments, installing packages with pip, the Bext, Playsound and PyMsgBox packages, the sys.argv function.
+3. What is blocking you? Nothing is blocking me. Just unforeseen circumstances resulted in less study time.
+4. What are your next three commitments? Complete Chapter 12, Finish up Chapter 13 and Commit Chapter 13 practice programs.
