@@ -1,6 +1,6 @@
 
 ## Week N (date)
-- Hours: 10 / 0.5
+- Hours: 10 / 1.25
 - Done: what I built or learned
 - Exit criteria: checked off this week
 - Energy (1-5):
