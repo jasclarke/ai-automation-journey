@@ -1,7 +1,7 @@
 
 ## Week N (date)
-- Hours: 10 / 1.25
-- Done: what I built or learned
+- Hours: 10 / 2.25
+- Done: Finished Chapter 12, Finished Chapter 12 practice programs
 - Exit criteria: checked off this week
 - Energy (1-5):
 - Stuck on:
@@ -10,6 +10,7 @@
 
 ## Weekly Review
 1. Did you do what you committed to?
-2. What did you ship or learn?
+2. What did you ship or learn? 
+I learned how to create an executable of my python programs using PyInstaller. I practiced making my programs executable via double-clicking and spotlight using command files and automator.
 3. What is blocking you?
 4. What are your next three commitments?
