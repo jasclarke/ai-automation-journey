@@ -1,6 +1,6 @@
 
 ## Week N (date)
-- Hours: 10 / 2.25
+- Hours: 10 / 3.75
 - Done: Finished Chapter 12, Finished Chapter 12 practice programs
 - Exit criteria: checked off this week
 - Energy (1-5):
