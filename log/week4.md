@@ -1,7 +1,7 @@
 
 ## Week N (date)
-- Hours: 12 / actual
-- Done: what I built or learned
+- Hours: 12 / 1.5
+- Done: format datetime objects as strings and vice-versa, launch and kill programs using the subprocess module.
 - Exit criteria: checked off this week
 - Energy (1-5):
 - Stuck on:
