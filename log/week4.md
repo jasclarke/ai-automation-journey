@@ -1,7 +1,7 @@
 
 ## Week N (date)
-- Hours: 12 / 1.5
-- Done: format datetime objects as strings and vice-versa, launch and kill programs using the subprocess module.
+- Hours: 12 / 3.5
+- Done: format datetime objects as strings and vice-versa, launch and kill programs using the subprocess module, finish read chapter 19, complete chapter 19 practice programs
 - Exit criteria: checked off this week
 - Energy (1-5):
 - Stuck on:
