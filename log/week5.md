@@ -1,7 +1,7 @@
 
 ## Week N (date)
-- Hours: 10 / actual
-- Done: what I built or learned
+- Hours: 10 / 6
+- Done: Setup dev environment on Windows laptop, Modify script for cross platform usage, Refactor code based on correctness and robustness feedback, Update README.md
 - Exit criteria: checked off this week
 - Energy (1-5):
 - Stuck on:
