@@ -1,9 +1,9 @@
 
 ## Week N (date)
-- Hours: 10 / 2.5
-- Done: what I built or learned
+- Hours: 10 / 8.5
+- Done: Corrected bugs from previous week, Configured test environment, test api with postman
 - Exit criteria: checked off this week
-- Energy (1-5):
+- Energy (1-5): 5
 - Stuck on:
 - Next week's 3 commitments:
 - Shipped (every 2-3 weeks): link to repo, demo or write-up
