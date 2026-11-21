@@ -1,6 +1,6 @@
 
 ## Week N (date)
-- Hours: 10 / 10
+- Hours: 10 / 17
 - Done: Corrected bugs from previous week, Configured test environment, test api with postman
 - Exit criteria: checked off this week
 - Energy (1-5): 5
