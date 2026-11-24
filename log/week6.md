@@ -1,6 +1,6 @@
 
 ## Week N (date)
-- Hours: 10 / 17
+- Hours: 10 / 19
 - Done: Corrected bugs from previous week, Configured test environment, test api with postman, learn FTP function of ftplib module, implement ftp upload of pdf, implement test upload of ftp, implement category retrival via API, implement create category via API
 - Exit criteria: checked off this week
 - Energy (1-5): 5
