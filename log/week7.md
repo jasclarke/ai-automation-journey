@@ -1,7 +1,7 @@
 
 ## Week N (date)
-- Hours: 12 / 4
-- Done: Made bug fixes and improvements based on feedback
+- Hours: 12 / 5.5
+- Done: Made bug fixes and improvements based on feedback, Setup Project and Credentials Gmail API access
 - Exit criteria: checked off this week
 - Energy (1-5):
 - Stuck on:
